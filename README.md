@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMeaningfulStar&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMeaningfulStar&show_icons=true&theme=solarized-light)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMeaningfulStar&theme=dark&show_icons=true)
 <!--
