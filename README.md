@@ -28,6 +28,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMeaningfulStar&show_icons=true&theme=solarized-light)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@ghrlfehd123)
+
 </div>
 <!--
 **AMeaningfulStar/AMeaningfulStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
