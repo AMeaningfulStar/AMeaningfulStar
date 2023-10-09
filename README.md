@@ -1,3 +1,5 @@
+<div align="center"> 
+  
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=A_Meanungful_Star&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
@@ -27,6 +29,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMeaningfulStar&show_icons=true&theme=solarized-light)
 
+</div>
 <!--
 **AMeaningfulStar/AMeaningfulStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
