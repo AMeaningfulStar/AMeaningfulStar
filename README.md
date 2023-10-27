@@ -26,6 +26,6 @@
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMeaningfulStar&show_icons=true&theme=solarized-light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMeaningfulStar&show_icons=true&theme=solarized-light&count-private=true)
 
 </div>
