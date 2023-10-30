@@ -1,6 +1,7 @@
 <div align="center"> 
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=A_Meanungful_Star&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&#123'✋🏻hello%20world!'&#125&#59&fontSize=50&animation=blinking" />
   
 ####  :wave: Welcome my github profile !
 
